@@ -1,0 +1,1 @@
+Currently on the start of my first project on The Odin Project. It has been a long time coming and I don't really necessarily know what I am doing just yet, but I hope to teach myself more and learn more as time goes on. Overall, I am excited for what my future coding and programming adventures may bring.
